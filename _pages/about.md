@@ -25,8 +25,8 @@ My research lies at the intersection of computer vision and machine learning –
 # 🔥 News
 - *2025.05*: &nbsp;🎉 ZeroFlow, Dual-Arch, gR_MoE-LoRA accepted by ICML 2025. 
 - *2025.03*: &nbsp;🎉 TDFusion accepted by CVPR 2025 as Spotlight.
-- *2025.02*: &nbsp;🎉 We release a survey Parameter-Efficient Fine-Tuning for Foundation Models.
-- *2024.02*: &nbsp;🎉 We release a survey Generative Artificial Intelligence in Robotic Manipulation.
+- *2025.02*: &nbsp;📖 We release a survey Parameter-Efficient Fine-Tuning for Foundation Models.
+- *2024.02*: &nbsp;📖 We release a survey Generative Artificial Intelligence in Robotic Manipulation.
 - *2025.02*: &nbsp;🎉 HAR Foundation Model accepted by Information Fusion (IF=14.80).
 - *2024.09*: &nbsp;🎉 C-Flat accepted by NeurIPS 2024.
 - *2024.06*: &nbsp;🎉 UniGrad-FS accepted by IEEE TII (IF=11.70).
@@ -37,10 +37,10 @@ My research lies at the intersection of computer vision and machine learning –
 - *2023.07*: &nbsp;🎉 RLIP accepted by NeurIPS 2022 as Spotlight.
 - *2022.03*: &nbsp;🎉 ERD accepted by CVPR 2022.
 - *2021.12*: &nbsp;🎉 Pose-powered ReID accepted by Pattern Recognition (IF=7.50).
-- *2021.10*: &nbsp;🎉 Win 1st Place on Webface260M SFR Track! @ICCV MFR Challenge.
-- *2021.10*: &nbsp;🎉 Win 2nd Place on InsightFace unconstrained Track! @ICCV MFR Challenge.
-- *2021.10*: &nbsp;🎉 Win 3rd Place on Webface260M Main Track! @ICCV MFR Challenge.
-- *2021.10*: &nbsp;🎉 Win 3rd Place on InsightFace ms1m Track! @ICCV MFR Challenge.
+- *2021.10*: &nbsp;🏆 Win 1st Place on Webface260M SFR Track! @ICCV MFR Challenge.
+- *2021.10*: &nbsp;🥈 Win 2nd Place on InsightFace unconstrained Track! @ICCV MFR Challenge.
+- *2021.10*: &nbsp;🥉 Win 3rd Place on Webface260M Main Track! @ICCV MFR Challenge.
+- *2021.10*: &nbsp;🥉 Win 3rd Place on InsightFace ms1m Track! @ICCV MFR Challenge.
 - *2021.09*: &nbsp;🎉 One papers accepted by ICCV 2021 @workshop.
 
 # 📝 Publications 
