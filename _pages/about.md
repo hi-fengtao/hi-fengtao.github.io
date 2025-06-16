@@ -17,30 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I hold a Postdoc position at Tsinghua University, working with Prof. Jie Tang and Minlie Huang. I obtained my Ph.D. from Sichuan University in June 2023 under the supervision of Prof. Jianzhou Zhang, Prof. Rong Jin (Alibaba DAMO). Dr. Mang Wang (ByteDance). I am participating as one of the contributors to project VGen and SuperBench (清华大学基础模型中心). I led project include ERD, C-Flat, ZeroFlow and EasyCL Library (in progress). All projects gained a total of 4,000+ stars.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research lies at the intersection of computer vision and machine learning – with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include Computer Vision, Continual Learning, Video Generation and Vision-Language Model.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉 ZeroFlow, Dual-Arch, gR_MoE-LoRA accepted by ICML 2025. 
+- *2025.03*: &nbsp;🎉 TDFusion accepted by CVPR 2025 as Spotlight.
+- *2025.02*: &nbsp;🎉 We release a survey Parameter-Efficient Fine-Tuning for Foundation Models.
+- *2024.02*: &nbsp;🎉 We release a survey Generative Artificial Intelligence in Robotic Manipulation.
+- *2025.02*: &nbsp;🎉 HAR Foundation Model accepted by Information Fusion (IF=14.80).
+- *2024.09*: &nbsp;🎉 C-Flat accepted by NeurIPS 2024.
+- *2024.06*: &nbsp;🎉 UniGrad-FS accepted by IEEE TII (IF=11.70).
+- *2024.04*: &nbsp;🎉 R<sup>2</sup>KD accepted by IEEE TIM (IF=5.60).
+- *2024.03*: &nbsp;🎉 InstructVideo accepted by CVPR 2024.
+- *2024.01*: &nbsp;🎉 ArchCraft accepted by IJCAI 2024.
+- *2023.07*: &nbsp;🎉 RLIP v2 accepted by ICCV 2023.
+- *2023.07*: &nbsp;🎉 RLIP accepted by NeurIPS 2022 as Spotlight.
+- *2022.03*: &nbsp;🎉 ERD accepted by CVPR 2022.
+- *2021.12*: &nbsp;🎉 Pose-powered ReID accepted by Pattern Recognition (IF=7.50).
+- *2021.10*: &nbsp;🎉 Win 1st Place on Webface260M SFR Track! @ICCV MFR Challenge.
+- *2021.10*: &nbsp;🎉 Win 2nd Place on InsightFace unconstrained Track! @ICCV MFR Challenge.
+- *2021.10*: &nbsp;🎉 Win 3rd Place on Webface260M Main Track! @ICCV MFR Challenge.
+- *2021.10*: &nbsp;🎉 Win 3rd Place on InsightFace ms1m Track! @ICCV MFR Challenge.
+- *2021.09*: &nbsp;🎉 One papers accepted by ICCV 2021 @workshop.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.pdf)
 
-**Tao Feng**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tao Feng**, Mang Wang, Hangjie Yuan
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/hi-fengtao/ERD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
