@@ -26,7 +26,7 @@ My research lies at the intersection of computer vision and machine learning –
 - *2025.05*: &nbsp;🎉 ZeroFlow, Dual-Arch, gR_MoE-LoRA accepted by ICML 2025. 
 - *2025.03*: &nbsp;🎉 TDFusion accepted by CVPR 2025 as Spotlight.
 - *2025.02*: &nbsp;📖 We release a survey Parameter-Efficient Fine-Tuning for Foundation Models.
-- *2024.02*: &nbsp;📖 We release a survey Generative Artificial Intelligence in Robotic Manipulation.
+- *2025.02*: &nbsp;📖 We release a survey Generative Artificial Intelligence in Robotic Manipulation.
 - *2025.02*: &nbsp;🎉 HAR Foundation Model accepted by Information Fusion (IF=14.80).
 - *2024.09*: &nbsp;🎉 C-Flat accepted by NeurIPS 2024.
 - *2024.06*: &nbsp;🎉 UniGrad-FS accepted by IEEE TII (IF=11.70).
