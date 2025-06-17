@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I hold a Postdoc position at Tsinghua University, working with Prof. Jie Tang and Minlie Huang. I obtained my Ph.D. from Sichuan University in June 2023 under the supervision of Prof. Jianzhou Zhang, Prof. Rong Jin (Alibaba DAMO). Dr. Mang Wang (ByteDance). I am participating as one of the contributors to project VGen and SuperBench (清华大学基础模型中心). I led project include ERD, C-Flat, ZeroFlow and EasyCL Library (in progress). All projects gained a total of 4,000+ stars.
+I hold a Postdoc position at Tsinghua University, working with Prof. Jie Tang and Minlie Huang. I obtained my Ph.D. from Sichuan University in June 2023 under the supervision of Prof. Jianzhou Zhang, Prof. Rong Jin (Alibaba DAMO). Dr. Mang Wang (ByteDance). I am participating as one of the contributors to project VGen (通义万相) and SuperBench (清华大学-基础模型中心). I led project include ERD, C-Flat, ZeroFlow and EasyCL Library (in progress). All projects gained a total of 4,000+ stars.
 
 My research lies at the intersection of computer vision and machine learning – with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include Computer Vision, Continual Learning, Video Generation and Vision-Language Model.
 
@@ -45,7 +45,7 @@ My research lies at the intersection of computer vision and machine learning –
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/zerflow.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/zeroflow.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ZeroFlow: Overcoming Catastrophic Forgetting is Easier than You Think](https://arxiv.org/pdf/2501.01045)
@@ -58,12 +58,25 @@ My research lies at the intersection of computer vision and machine learning –
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/zeroflow.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking the Stability-Plasticity Trade-off in Continual Learning from an Architectural Perspective]([https://arxiv.org/pdf/2501.01045](https://arxiv.org/pdf/2506.03951?))
+
+Aojun Lu, Hangjie Yuan, **Tao Feng<sup>†</sup>**, Yanan Sun
+
+[**Project**](https://github.com/byyx666/Dual-Arch) 
+- We propose a novel insight for exploring the stability-plasticity tradeoff from an architectural perspective.
+- We introduce a novel framework denoted DualArch, which serves as a plug-in component for continual learning.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/c-flat.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Make Continual Learning Stronger via C-Flat](https://proceedings.neurips.cc/paper_files/paper/2024/file/0e705ac30e573d1526f81a0fd071a151-Paper-Conference.pdf)
 
-Ang Bian, Wei Li, Hangjie Yuan, Chengrong Yu, Mang Wang, Zixiang Zhao, Aojun Lu, Ji Pengliang, **Tao Feng**
+Ang Bian, Wei Li, Hangjie Yuan, Chengrong Yu, Mang Wang, Zixiang Zhao, Aojun Lu, Ji Pengliang, **Tao Feng<sup>†</sup>**
 
 [**Project**](https://github.com/WanNaa/C-Flat) 
 - We propose a Continual Flatness (C-Flat) method featuring a flatter loss landscape tailored for continual learning.
