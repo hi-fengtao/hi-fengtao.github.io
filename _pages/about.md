@@ -45,7 +45,20 @@ My research lies at the intersection of computer vision and machine learning –
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/erd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/erd.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Make Continual Learning Stronger via C-Flat](https://proceedings.neurips.cc/paper_files/paper/2024/file/0e705ac30e573d1526f81a0fd071a151-Paper-Conference.pdf)
+
+Ang Bian, Wei Li, Hangjie Yuan, Chengrong Yu, Mang Wang, Zixiang Zhao, Aojun Lu, Ji Pengliang, **Tao Feng**
+
+[**Project**]([https://github.com/hi-fengtao/ERD](https://github.com/WanNaa/C-Flat)) 
+- We propose a Continual Flatness (C-Flat) method featuring a flatter loss landscape tailored for continual learning.
+- Just a line of code, Makes Continual Learning Stronger. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/erd.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.pdf)
@@ -53,7 +66,7 @@ My research lies at the intersection of computer vision and machine learning –
 **Tao Feng**, Mang Wang, Hangjie Yuan
 
 [**Project**](https://github.com/hi-fengtao/ERD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a response-based incremental object detection method, dubbed Elastic Response Distillation (ERD). 
+- We propose a response-based knowledge distillation method for Incremental Object Detection, dubbed Elastic Response Distillation (ERD). 
 </div>
 </div>
 
