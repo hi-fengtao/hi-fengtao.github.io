@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Tao Feng"
 description              : "Fengtao's Homepage"
-repository               : "Hi-FT/fengtao.hi.github.io"
+repository               : 
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tao Feng"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/pic2.png"
   bio              : "SCU/DAMO/THU"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=orT-3tsAAAA&user=JT8hRbgAAAAJ"
-  email            : "fengtao.hi@gmail.com"
+  email            : fengtao.hi@gmail.com
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
