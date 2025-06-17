@@ -53,12 +53,24 @@ My research lies at the intersection of computer vision and machine learning –
 **Tao Feng**, Wei Li, DiDi Zhu, Hangjie Yuan, Wendi Zheng, Dan Zhang, Jie Tang
 
 [**Project**](https://zeroflow-bench.github.io/) 
-- We introduce ZeroFlow, the first benchmark designed to evaluate gradient-free optimization algorithms for overcoming forgetting
+- We introduce ZeroFlow, the first benchmark designed to evaluate gradient-free optimization algorithms for overcoming forgetting.
 - We find that forward passes alone are enough to overcome forgetting. Maybe, once is all it takes!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/zeroflow.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/moelora.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Stronger Mixture of Low-Rank Experts for Fine-Tuning Foundation Models](https://arxiv.org/pdf/2502.15828)
+
+Mengyang Sun, Yihao Wang, **Tao Feng<sup>†</sup>**, Dan Zhang, Yifan Zhu, Jie Tang<sup>†</sup>
+
+[**Project**](https://zeroflow-bench.github.io/) 
+- We propose a new training strategy for MoE-LoRA, to stabilize and boost its feature learning procedure by multi-space projections.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/dual.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Rethinking the Stability-Plasticity Trade-off in Continual Learning from an Architectural Perspective]([https://arxiv.org/pdf/2501.01045](https://arxiv.org/pdf/2506.03951?))
