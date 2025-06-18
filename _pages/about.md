@@ -83,7 +83,7 @@ Aojun Lu, Hangjie Yuan, **Tao Feng<sup>†</sup>**, Yanan Sun
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025-Spotlight</div><img src='images/tdfusion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025-Highlight</div><img src='images/tdfusion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Task-driven Image Fusion with Learnable Fusion Loss](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_Task-driven_Image_Fusion_with_Learnable_Fusion_Loss_CVPR_2025_paper.pdf)
@@ -135,6 +135,31 @@ Aojun Lu, **Tao Feng**, Hangjie Yuan, Xiaotian Song, Yanan Sun
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/rlipv2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RLIP v2: Fast Scaling of Relational Language-image Pre-training](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.pdf)
+
+Hangjie Yuan, Shiwei Zhang, Xiang Wang, Samuel Albanie, Yining Pan, **Tao Feng**, Jianwen Jiang, Dong Ni, Yingya Zhang, Deli Zhao
+
+[**Project**](https://github.com/JacobYuan7/RLIPv2) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose RLIP v2, a fast converging model that enables the scaling of relational pre-training to largescale pseudo-labelled scene graph data.
+- RLIPv2 introduces Asymmetric Language-Image Fusion (ALIF), a mechanism that facilitates earlier and deeper gated cross-modal fusion with sparsified language encoding layers.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022-Spotlight</div><img src='images/rlip.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://proceedings.neurips.cc/paper_files/paper/2022/file/f37347375d8b54e3203e5d24aeb6c58c-Paper-Conference.pdf)
+
+Hangjie Yuan, Jianwen Jiang, Samuel Albanie, **Tao Feng**, Ziyuan Huang, Dong Ni, Mingqian Tang
+
+[**Project**](https://github.com/JacobYuan7/RLIP) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose Relational Language Image Pre-training (RLIP), a strategy for contrastive pre-training that leverages both entity and relation descriptions.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/erd.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -143,8 +168,21 @@ Aojun Lu, **Tao Feng**, Hangjie Yuan, Xiaotian Song, Yanan Sun
 **Tao Feng**, Mang Wang, Hangjie Yuan
 
 [**Project**](https://github.com/hi-fengtao/ERD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a response-based knowledge distillation method for Incremental Object Detection, dubbed Elastic Response Distillation (ERD).
 - First open-source incremental detection codebase.
+- We propose a response-based knowledge distillation method for Incremental Object Detection, dubbed Elastic Response Distillation (ERD).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/mask.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Mask-robust Face Recognition](https://openaccess.thecvf.com/content/ICCV2021W/MFR/papers/Feng_Towards_Mask-Robust_Face_Recognition_ICCVW_2021_paper.pdf)
+
+**Tao Feng**, Liangpeng Xu, Hangjie Yuan, Yongfei Zhao, Mingqian Tang, Mang Wang
+
+[**Project**](https://openaccess.thecvf.com/content/ICCV2021W/MFR/papers/Feng_Towards_Mask-Robust_Face_Recognition_ICCVW_2021_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We introduce a maskto-face image blending approach based on UV texture mapping, and a self-learning based cleaning pipeline for processing noisy training datasets.
+- Then, considering the impacts of the long-tail distribution and hard faces samples, a loss function named Balanced Curricular Loss is introduced.
 </div>
 </div>
 
