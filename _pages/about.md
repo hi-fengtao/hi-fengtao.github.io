@@ -90,7 +90,7 @@ Aojun Lu, Hangjie Yuan, **Tao Feng<sup>†</sup>**, Yanan Sun
 
 Haowen Bai, Jiangshe Zhang, Zixiang Zhao, Yichen Wu, Lilun Deng, Yukun Cui, **Tao Feng**, Shuang Xu
 
-[**Project**](https://github. com/HaowenBai/TDFusion) 
+[**Project**](https://github.com/HaowenBai/TDFusion) 
 - Our framework includes a dynamically updated, learnable fusion loss generation module.
 - TDFusion can be applied to any architecture of fusion and task networks.
 </div>
@@ -109,7 +109,7 @@ Ang Bian, Wei Li, Hangjie Yuan, Chengrong Yu, Mang Wang, Zixiang Zhao, Aojun Lu,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/instructvideo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/instructvideo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_InstructVideo_Instructing_Video_Diffusion_Models_with_Human_Feedback_CVPR_2024_paper.pdf)
@@ -122,7 +122,7 @@ Hangjie Yuan, Shiwei Zhang, Xiang Wang, Yujie Wei, **Tao Feng**, Yining Pan, Yin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/archcraft.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/archcraft.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Revisiting Neural Networks for Continual Learning: An Architectural Perspective](https://arxiv.org/pdf/2404.14829)
