@@ -173,7 +173,7 @@ Hangjie Yuan, Jianwen Jiang, Samuel Albanie, **Tao Feng**, Ziyuan Huang, Dong Ni
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/mask.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCVW 2021</div><img src='images/mask.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Mask-robust Face Recognition](https://openaccess.thecvf.com/content/ICCV2021W/MFR/papers/Feng_Towards_Mask-Robust_Face_Recognition_ICCVW_2021_paper.pdf)
@@ -181,8 +181,8 @@ Hangjie Yuan, Jianwen Jiang, Samuel Albanie, **Tao Feng**, Ziyuan Huang, Dong Ni
 **Tao Feng**, Liangpeng Xu, Hangjie Yuan, Yongfei Zhao, Mingqian Tang, Mang Wang
 
 [**Project**](https://openaccess.thecvf.com/content/ICCV2021W/MFR/papers/Feng_Towards_Mask-Robust_Face_Recognition_ICCVW_2021_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We introduce a maskto-face image blending approach based on UV texture mapping, and a self-learning based cleaning pipeline for processing noisy training datasets.
-- Then, considering the impacts of the long-tail distribution and hard faces samples, a loss function named Balanced Curricular Loss is introduced.
+- We introduce a mask-to-face image blending approach based on UV texture mapping, and a self-learning based cleaning pipeline for processing noisy training datasets.
+- Considering the long-tail distribution and hard faces samples, a loss function named Balanced Curricular Loss is introduced.
 </div>
 </div>
 
