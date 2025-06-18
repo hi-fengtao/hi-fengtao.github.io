@@ -186,6 +186,57 @@ Hangjie Yuan, Jianwen Jiang, Samuel Albanie, **Tao Feng**, Ziyuan Huang, Dong Ni
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/unigrad.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Visible Light Human Activity Recognition Driven by Generative Language Model](https://www.sciencedirect.com/science/article/abs/pii/S1566253525002325)
+
+Yanbing Yang, Ziwei Liu, Yongkun Chen, Binyu Yan, Yimao Sun, **Tao Feng<sup>†</sup>**
+
+[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S1566253525002325) 
+- We propose the first HAR foundation model that leverages generative large language models (LLMs) to decode visible light feature representations into human activity descriptions.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM 2024</div><img src='images/r2d.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Class-Incremental Player Detection with Refined Response-based Knowledge Distillation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10843153)
+
+Liang Bai, Hangjie Yuan, Hong Song<sup>†</sup>, **Tao Feng<sup>†</sup>**, Jian Yang<sup>†</sup>
+
+[**Project**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10843153) 
+- We propose a refined response-based KD (R<sup>2</sup>KD) strategy specifically designed for efficient knowledge transfer in incremental detection.
+- We are the first to comprehensively study class-incremental detection in real-world sports broadcast scenarios.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2024</div><img src='images/unigrad.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unigrad-FS: Unified Gradient Projection with Flatter Sharpness for Continual Learning](https://www.researchgate.net/profile/Ziwei_Liu45/publication/383133040_UniGrad-FS_Unified_Gradient_Projection_With_Flatter_Sharpness_for_Continual_Learning/links/66eb873819c9496b1faca211/UniGrad-FS-Unified-Gradient-Projection-With-Flatter-Sharpness-for-Continual-Learning.pdf)
+
+Wei Li, **Tao Feng<sup>†</sup>**, Hangjie Yuan, Ang Bian, Guodong Du, Sixin Liang, Jianhong Gan, Ziwei Liu
+
+[**Project**](https://www.researchgate.net/profile/Ziwei_Liu45/publication/383133040_UniGrad-FS_Unified_Gradient_Projection_With_Flatter_Sharpness_for_Continual_Learning/links/66eb873819c9496b1faca211/UniGrad-FS-Unified-Gradient-Projection-With-Flatter-Sharpness-for-Continual-Learning.pdf) 
+- We propose a plug-and-play method UniGrad to tackle the inconsistency of conflicting and non-conflicting gradients in gradient updating for CL.
+- We find the flat minima region through perturbing the model parameters in CL.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2022</div><img src='images/reid.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Identifying Players in Broadcast Videos using Graph Convolutional Network)
+
+**Tao Feng**, Kaifan Ji, Ang Bian, Chang Liu, Jianzhou Zhang
+
+[**Project**](https://zeroflow-bench.github.io/) 
+- A novel person representation method using graph convolu- tional network at the level of relational induction bias is presented.
+- We innovatively embed implicit pose structure information into the deep features to form high-level features.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
