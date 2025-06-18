@@ -23,7 +23,7 @@ My research lies at the intersection of computer vision and machine learning –
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉 ZeroFlow, Dual-Arch, gR_MoE-LoRA accepted by ICML 2025. 
+- *2025.05*: &nbsp;🎉 [ZeroFlow](https://zeroflow-bench.github.io/) , [Dual-Arch](https://arxiv.org/pdf/2506.03951?), [gR_MoE-LoRA](https://arxiv.org/pdf/2502.15828) accepted by ICML 2025. 
 - *2025.03*: &nbsp;🎉 TDFusion accepted by CVPR 2025 as Spotlight.
 - *2025.02*: &nbsp;📖 We release a survey Parameter-Efficient Fine-Tuning for Foundation Models.
 - *2025.02*: &nbsp;📖 We release a survey Generative Artificial Intelligence in Robotic Manipulation.
@@ -73,7 +73,7 @@ Mengyang Sun, Yihao Wang, **Tao Feng<sup>†</sup>**, Dan Zhang, Yifan Zhu, Jie 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/dual.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rethinking the Stability-Plasticity Trade-off in Continual Learning from an Architectural Perspective]([https://arxiv.org/pdf/2501.01045](https://arxiv.org/pdf/2506.03951?))
+[Rethinking the Stability-Plasticity Trade-off in Continual Learning from an Architectural Perspective](https://arxiv.org/pdf/2506.03951?)
 
 Aojun Lu, Hangjie Yuan, **Tao Feng<sup>†</sup>**, Yanan Sun
 
@@ -186,7 +186,7 @@ Hangjie Yuan, Jianwen Jiang, Samuel Albanie, **Tao Feng**, Ziyuan Huang, Dong Ni
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/unigrad.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/HAR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Visible Light Human Activity Recognition Driven by Generative Language Model](https://www.sciencedirect.com/science/article/abs/pii/S1566253525002325)
@@ -195,19 +195,6 @@ Yanbing Yang, Ziwei Liu, Yongkun Chen, Binyu Yan, Yimao Sun, **Tao Feng<sup>†<
 
 [**Project**](https://www.sciencedirect.com/science/article/abs/pii/S1566253525002325) 
 - We propose the first HAR foundation model that leverages generative large language models (LLMs) to decode visible light feature representations into human activity descriptions.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM 2024</div><img src='images/r2d.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Class-Incremental Player Detection with Refined Response-based Knowledge Distillation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10843153)
-
-Liang Bai, Hangjie Yuan, Hong Song<sup>†</sup>, **Tao Feng<sup>†</sup>**, Jian Yang<sup>†</sup>
-
-[**Project**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10843153) 
-- We propose a refined response-based KD (R<sup>2</sup>KD) strategy specifically designed for efficient knowledge transfer in incremental detection.
-- We are the first to comprehensively study class-incremental detection in real-world sports broadcast scenarios.
 </div>
 </div>
 
@@ -224,31 +211,36 @@ Wei Li, **Tao Feng<sup>†</sup>**, Hangjie Yuan, Ang Bian, Guodong Du, Sixin Li
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM 2024</div><img src='images/r2d.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Class-Incremental Player Detection with Refined Response-based Knowledge Distillation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10843153)
+
+Liang Bai, Hangjie Yuan, Hong Song<sup>†</sup>, **Tao Feng<sup>†</sup>**, Jian Yang<sup>†</sup>
+
+[**Project**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10843153) 
+- We propose a refined response-based KD (R<sup>2</sup>KD) strategy specifically designed for efficient knowledge transfer in incremental detection.
+- We are the first to comprehensively study class-incremental detection in real-world sports broadcast scenarios.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2022</div><img src='images/reid.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Identifying Players in Broadcast Videos using Graph Convolutional Network)
+[Identifying Players in Broadcast Videos using Graph Convolutional Network](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006798)
 
 **Tao Feng**, Kaifan Ji, Ang Bian, Chang Liu, Jianzhou Zhang
 
-[**Project**](https://zeroflow-bench.github.io/) 
+[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006798) 
 - A novel person representation method using graph convolu- tional network at the level of relational induction bias is presented.
 - We innovatively embed implicit pose structure information into the deep features to form high-level features.
 </div>
 </div>
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📖 Academic Service
+- Reviewing
+  + *Conferences* ICLR 2024-2025, ICML 2024-2025, NeurIPS 2023-2025, CVPR 2022-2024, ICCV 2023-2025, ECCV 2024, AAAI 2023-2025, IJCAI 2023-2025 ACL 2025 and KDD 2024-2025
+  + *Journals* TPAMI, IJCV, TIP, TMM, TCSVT, TNNLS, TII, TIM and PR etc.
+- Services
+  + Guest Editor for the Special Issue of Journal of Imaging
