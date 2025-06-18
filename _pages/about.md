@@ -83,6 +83,19 @@ Aojun Lu, Hangjie Yuan, **Tao Feng<sup>†</sup>**, Yanan Sun
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025-Spotlight</div><img src='images/tdfusion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Task-driven Image Fusion with Learnable Fusion Loss](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_Task-driven_Image_Fusion_with_Learnable_Fusion_Loss_CVPR_2025_paper.pdf)
+
+Haowen Bai, Jiangshe Zhang, Zixiang Zhao, Yichen Wu, Lilun Deng, Yukun Cui, **Tao Feng**, Shuang Xu
+
+[**Project**](https://github. com/HaowenBai/TDFusion) 
+- Our framework includes a dynamically updated, learnable fusion loss generation module.
+- TDFusion can be applied to any architecture of fusion and task networks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/c-flat.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -93,6 +106,32 @@ Ang Bian, Wei Li, Hangjie Yuan, Chengrong Yu, Mang Wang, Zixiang Zhao, Aojun Lu,
 [**Project**](https://github.com/WanNaa/C-Flat) 
 - We propose a Continual Flatness (C-Flat) method featuring a flatter loss landscape tailored for continual learning.
 - Just a line of code, Makes Continual Learning Stronger. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/instructvideo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_InstructVideo_Instructing_Video_Diffusion_Models_with_Human_Feedback_CVPR_2024_paper.pdf)
+
+Hangjie Yuan, Shiwei Zhang, Xiang Wang, Yujie Wei, **Tao Feng**, Yining Pan, Yingya Zhang, Ziwei Liu, Samuel Albanie, Dong Ni
+
+[**Project**](https://instructvideo.github.io/.) 
+- We propose InstructVideo, a model that efficiently instructs textto-video diffusion models to follow human feedback.
+- To mitigate the absence of a dedicated video reward model for human preferences, we repurpose established image reward models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/archcraft.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Revisiting Neural Networks for Continual Learning: An Architectural Perspective](https://arxiv.org/pdf/2404.14829)
+
+Aojun Lu, **Tao Feng**, Hangjie Yuan, Xiaotian Song, Yanan Sun
+
+[**Project**](https://github.com/byyx666/ArchCraft) 
+- This work is the pioneering effort to employ neural architecture design to shape a CL-friendly architecture.
+- We propose ArchCraft method to recraft AlexNet/ResNet into AlexAC/ResAC to guide a well-designed network architecture for CL.
 </div>
 </div>
 
