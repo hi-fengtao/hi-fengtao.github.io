@@ -240,7 +240,7 @@ Liang Bai, Hangjie Yuan, Hong Song<sup>†</sup>, **Tao Feng<sup>†</sup>**, Ji
 
 # 📖 Academic Service
 - Reviewing
-  + *Conferences* ICLR 2024-2025, ICML 2024-2025, NeurIPS 2023-2025, CVPR 2022-2024, ICCV 2023-2025, ECCV 2024, AAAI 2023-2025, IJCAI 2023-2025 ACL 2025 and KDD 2024-2025
-  + *Journals* TPAMI, IJCV, TIP, TMM, TCSVT, TNNLS, TII, TIM and PR etc.
+  + *Conferences:* ICLR 2024-2025, ICML 2024-2025, NeurIPS 2023-2025, CVPR 2022-2024, ICCV 2023-2025, ECCV 2024, AAAI 2023-2025, IJCAI 2023-2025 ACL 2025 and KDD 2024-2025
+  + *Journals:* TPAMI, IJCV, TIP, TMM, TCSVT, TNNLS, TII, TIM and PR etc.
 - Services
   + Guest Editor for the Special Issue of Journal of Imaging
