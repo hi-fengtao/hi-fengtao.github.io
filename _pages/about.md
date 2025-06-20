@@ -24,7 +24,7 @@ My research lies at the intersection of computer vision and machine learning –
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉 [ZeroFlow](https://zeroflow-bench.github.io/) , [Dual-Arch](https://arxiv.org/pdf/2506.03951?), [gR_MoE-LoRA](https://arxiv.org/pdf/2502.15828) accepted by ICML 2025. 
-- *2025.03*: &nbsp;🎉 [TDFusion](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_Task-driven_Image_Fusion_with_Learnable_Fusion_Loss_CVPR_2025_paper.pdf) accepted by CVPR 2025 as Spotlight.
+- *2025.03*: &nbsp;🎉 [TDFusion](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_Task-driven_Image_Fusion_with_Learnable_Fusion_Loss_CVPR_2025_paper.pdf) accepted by CVPR 2025 as **Highlight**.
 - *2025.02*: &nbsp;📖 We release a survey [Parameter-Efficient Fine-Tuning for Foundation Models](https://github.com/THUDM/Awesome-Parameter-Efficient-Fine-Tuning-for-Foundation-Models?tab=readme-ov-file).
 - *2025.02*: &nbsp;📖 We release a survey [Generative Artificial Intelligence in Robotic Manipulation](https://github.com/GAI4Manipulation/AwesomeGAIManipulation).
 - *2025.02*: &nbsp;🎉 [HAR Foundation Model](https://www.sciencedirect.com/science/article/abs/pii/S1566253525002325) accepted by Information Fusion (IF=14.80).
@@ -34,7 +34,7 @@ My research lies at the intersection of computer vision and machine learning –
 - *2024.03*: &nbsp;🎉 [InstructVideo](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_InstructVideo_Instructing_Video_Diffusion_Models_with_Human_Feedback_CVPR_2024_paper.pdf) accepted by CVPR 2024.
 - *2024.01*: &nbsp;🎉 [ArchCraft](https://arxiv.org/pdf/2404.14829) accepted by IJCAI 2024.
 - *2023.07*: &nbsp;🎉 [RLIP v2](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_RLIPv2_Fast_Scaling_of_Relational_Language-Image_Pre-Training_ICCV_2023_paper.pdf) accepted by ICCV 2023.
-- *2023.07*: &nbsp;🎉 [RLIP](https://proceedings.neurips.cc/paper_files/paper/2022/file/f37347375d8b54e3203e5d24aeb6c58c-Paper-Conference.pdf) accepted by NeurIPS 2022 as Spotlight.
+- *2023.07*: &nbsp;🎉 [RLIP](https://proceedings.neurips.cc/paper_files/paper/2022/file/f37347375d8b54e3203e5d24aeb6c58c-Paper-Conference.pdf) accepted by NeurIPS 2022 as **Spotlight**.
 - *2022.03*: &nbsp;🎉 [ERD](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.pdf) accepted by CVPR 2022.
 - *2021.12*: &nbsp;🎉 [Pose-powered ReID](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006798) accepted by Pattern Recognition (IF=7.50).
 - *2021.10*: &nbsp;🏆 Win 1st Place on Webface260M SFR Track! @ICCV MFR Challenge.
