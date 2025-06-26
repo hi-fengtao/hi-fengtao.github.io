@@ -23,6 +23,8 @@ My research lies at the intersection of computer vision and machine learning –
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉  VLM-CL, 	
+SAMora accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉 [ZeroFlow](https://zeroflow-bench.github.io/) , [Dual-Arch](https://arxiv.org/pdf/2506.03951?), [gR_MoE-LoRA](https://arxiv.org/pdf/2502.15828) accepted by ICML 2025. 
 - *2025.03*: &nbsp;🎉 [TDFusion](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_Task-driven_Image_Fusion_with_Learnable_Fusion_Loss_CVPR_2025_paper.pdf) accepted by CVPR 2025 as **Highlight**.
 - *2025.02*: &nbsp;📖 We release a survey [Parameter-Efficient Fine-Tuning for Foundation Models](https://github.com/THUDM/Awesome-Parameter-Efficient-Fine-Tuning-for-Foundation-Models?tab=readme-ov-file).
@@ -41,7 +43,7 @@ My research lies at the intersection of computer vision and machine learning –
 - *2021.10*: &nbsp;🥈 Win 2nd Place on InsightFace unconstrained Track! @ICCV MFR Challenge.
 - *2021.10*: &nbsp;🥉 Win 3rd Place on Webface260M Main Track! @ICCV MFR Challenge.
 - *2021.10*: &nbsp;🥉 Win 3rd Place on InsightFace ms1m Track! @ICCV MFR Challenge.
-- *2021.09*: &nbsp;🎉 One papers accepted by ICCV 2021 @workshop.
+- *2021.09*: &nbsp;🎉 One paper accepted by ICCV 2021 @workshop.
 
 # 📝 Publications 
 
