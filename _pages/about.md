@@ -19,7 +19,9 @@ redirect_from:
 
 I hold a Postdoc position at Tsinghua University, working with Prof. Jie Tang and Minlie Huang. I obtained my Ph.D. from Sichuan University in June 2023 under the supervision of Prof. Jianzhou Zhang, Prof. Rong Jin (Alibaba DAMO). Dr. Mang Wang (ByteDance). I am participating as one of the contributors to project [VGen](https://github.com/ali-vilab/VGen/tree/main) (通义万相) and [SuperBench](https://fm.ai.tsinghua.edu.cn/superbench/) (清华大学-基础模型中心). I led project include ERD, C-Flat, ZeroFlow and EasyCL Library (in progress). All projects gained a total of **4,000+ stars**.
 
-My research lies at the intersection of computer vision and machine learning – with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **Computer Vision**, **Continual Learning**, **Video Generation** and **Vision-Language Model**.
+My research lies at the intersection of computer vision and machine learning. My research interests include **Computer Vision**, **Continual Learning**, **Video Generation** and **Vision-Language Model**. My vision is striving to build 
+
+[Continual AI — intelligence that learns, adapts, and grows over time.]
 
 
 # 🔥 News
