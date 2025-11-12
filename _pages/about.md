@@ -24,6 +24,7 @@ My research lies at the intersection of computer vision and artificial intellige
 <center><i><u>Continual AI — intelligence that learns, adapts, and grows over time.</u></i></center>
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉  [ACL](https://arxiv.org/pdf/2506.03956) , [ZO-VLM](https://arxiv.org/pdf/2506.12409) accepted by AAAI 2026. 
 - *2025.09*: &nbsp;🎉  Initial version of [INFTY](https://github.com/THUDM/INFTY) is released.
 - *2025.06*: &nbsp;🎉  [VLM-CL](https://github.com/RL-VIG/DMNSP), 	
 SAMora accepted by ICCV 2025.
