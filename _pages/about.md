@@ -24,10 +24,10 @@ My research lies at the intersection of computer vision and artificial intellige
 <center><i><u>Continual AI — intelligence that learns, adapts, and grows over time.</u></i></center>
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉  [ACL](https://arxiv.org/pdf/2506.03956) , [ZO-VLM](https://arxiv.org/pdf/2506.12409) accepted by AAAI 2026. 
+- *2025.11*: &nbsp;🎉  [ACL](https://arxiv.org/pdf/2506.03956) , [MoZO](https://arxiv.org/pdf/2506.12409) accepted by AAAI 2026. 
 - *2025.09*: &nbsp;🎉  Initial version of [INFTY](https://github.com/THUDM/INFTY) is released.
 - *2025.06*: &nbsp;🎉  [VLM-CL](https://github.com/RL-VIG/DMNSP), 	
-SAMora accepted by ICCV 2025.
+[SAMora](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_SAMora_Enhancing_SAM_through_Hierarchical_Self-Supervised_Pre-Training_for_Medical_Images_ICCV_2025_paper.pdf) accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉 [ZeroFlow](https://zeroflow-bench.github.io/) , [Dual-Arch](https://arxiv.org/pdf/2506.03951?), [gR_MoE-LoRA](https://arxiv.org/pdf/2502.15828) accepted by ICML 2025. 
 - *2025.03*: &nbsp;🎉 [TDFusion](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_Task-driven_Image_Fusion_with_Learnable_Fusion_Loss_CVPR_2025_paper.pdf) accepted by CVPR 2025 as **Highlight**.
 - *2025.02*: &nbsp;📖 We release a survey [Parameter-Efficient Fine-Tuning for Foundation Models](https://github.com/THUDM/Awesome-Parameter-Efficient-Fine-Tuning-for-Foundation-Models?tab=readme-ov-file).
