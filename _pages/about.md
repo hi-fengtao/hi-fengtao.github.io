@@ -24,6 +24,7 @@ My research lies at the intersection of computer vision and artificial intellige
 <center><i><u>Continual AI — intelligence that learns, adapts, and grows over time.</u></i></center>
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉  [Lumos-1](https://github.com/alibaba-damo-academy/Lumos) , [CogFlow](https://shchen233.github.io/cogflow/) accepted by AAAI 2026. 
 - *2025.11*: &nbsp;🎉  [ACL](https://arxiv.org/pdf/2506.03956) , [MoZO](https://arxiv.org/pdf/2506.12409) accepted by AAAI 2026. 
 - *2025.09*: &nbsp;🎉  Initial version of [INFTY](https://github.com/THUDM/INFTY) is released.
 - *2025.06*: &nbsp;🎉  [VLM-CL](https://github.com/RL-VIG/DMNSP), 	
