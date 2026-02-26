@@ -25,7 +25,9 @@ My research lies at the intersection of computer vision and artificial intellige
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉  [C-Flat Turbo](https://openreview.net/pdf?id=BchSD4CJqI) , [DC-SFT](https://arxiv.org/abs/2602.10815) accepted by CVPR 2026. 
-- *2026.01*: &nbsp;🎉  [Lumos-1](https://github.com/alibaba-damo-academy/Lumos) , [CogFlow](https://shchen233.github.io/cogflow/) accepted by ICLR 2026. 
+- *2026.01*: &nbsp;🎉  [Lumos-1](https://github.com/alibaba-damo-academy/Lumos) , [CogFlow](https://shchen233.github.io/cogflow/) accepted by ICLR 2026.
+- *2026.01*: &nbsp;🎉  We introduce Continual GUI Agents, a new task that requires GUI agents to perform continual learning - [GUI-AiF](https://arxiv.org/pdf/2601.20732).
+- *2025.12*: &nbsp;🎉  [TransferCam](https://www.researchgate.net/publication/398681342_TransferCam_Integrated_Object_Recognition_and_Communication_via_Style_Transfer_Camera) accepted by TMM.
 - *2025.11*: &nbsp;🎉  [ACL](https://arxiv.org/pdf/2506.03956) , [MoZO](https://arxiv.org/pdf/2506.12409) accepted by AAAI 2026. 
 - *2025.09*: &nbsp;🎉  Initial version of [INFTY](https://github.com/THUDM/INFTY) is released.
 - *2025.06*: &nbsp;🎉  [VLM-CL](https://github.com/RL-VIG/DMNSP), 	
