@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I hold a Postdoc position at Tsinghua University, working with Prof. Jie Tang and Minlie Huang. I obtained my Ph.D. from Sichuan University under the supervision of Prof. Jianzhou Zhang, Prof. Rong Jin (Alibaba DAMO). Dr. Mang Wang (ByteDance). I am participating as one of the contributors to project [VGen](https://github.com/ali-vilab/VGen/tree/main) (通义万相) and [SuperBench](https://fm.ai.tsinghua.edu.cn/superbench/) (清华大学-基础模型中心). I led project include ERD, C-Flat, ZeroFlow and INFTY Engine. All projects gained a total of **4,000+ stars**.
+I hold a Postdoc position at Tsinghua University, working with Prof. Jie Tang and Minlie Huang. I obtained my Ph.D. from Sichuan University under the supervision of Prof. Jianzhou Zhang, Prof. Rong Jin (Alibaba DAMO). Dr. Mang Wang (ByteDance). I am participating as one of the contributors to project [VGen](https://github.com/ali-vilab/VGen/tree/main) and [SuperBench](https://fm.ai.tsinghua.edu.cn/superbench/) (清华大学-基础模型中心). I led project include ERD, C-Flat, ZeroFlow and INFTY Engine. All projects gained a total of **4,000+ stars**.
 
 My research lies at the intersection of computer vision and artificial intelligence. My research interests include **Computer Vision**, **Continual Learning**, **Video Generation** and **Vision-Language Model**. My vision is striving to build 
 
 <center><i><u>Continual AI — intelligence that learns, adapts, and grows over time.</u></i></center>
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉  [MathFlow](https://arxiv.org/pdf/2503.16549) , [BPO](https://arxiv.org/pdf/2508.03018?) accepted by ACL 2026 as Main Paper. 
 - *2026.02*: &nbsp;🎉  [C-Flat Turbo](https://openreview.net/pdf?id=BchSD4CJqI) , [DC-SFT](https://arxiv.org/abs/2602.10815) accepted by CVPR 2026. 
 - *2026.01*: &nbsp;🎉  [Lumos-1](https://github.com/alibaba-damo-academy/Lumos) , [CogFlow](https://shchen233.github.io/cogflow/) accepted by ICLR 2026.
 - *2026.01*: &nbsp;🎉  We introduce continual learning in GUI agents - [GUI-AiF](https://arxiv.org/pdf/2601.20732).
