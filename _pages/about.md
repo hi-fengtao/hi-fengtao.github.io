@@ -24,6 +24,7 @@ My research lies at the intersection of computer vision and artificial intellige
 <center><i><u>Continual AI — intelligence that learns, adapts, and grows over time.</u></i></center>
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉  Initial version of [🔥Fire-OPD](https://arxiv.org/abs/2606.02684) is released.
 - *2026.05*: &nbsp;🎉  [GUI-AiF](https://arxiv.org/pdf/2601.20732) , [DFA-CIL](https://icml.cc/virtual/2026/poster/64307) accepted by ICML 2026. 
 - *2026.04*: &nbsp;🎉  [MathFlow](https://arxiv.org/pdf/2503.16549) , [BPO](https://arxiv.org/pdf/2508.03018?) accepted by ACL 2026 as Main Paper. 
 - *2026.02*: &nbsp;🎉  [C-Flat Turbo](https://openreview.net/pdf?id=BchSD4CJqI) , [DC-SFT](https://arxiv.org/abs/2602.10815) accepted by CVPR 2026. 
