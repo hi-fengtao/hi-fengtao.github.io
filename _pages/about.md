@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I hold a Postdoc position at Tsinghua University, working with Prof. Jie Tang and Minlie Huang. I obtained my Ph.D. from Sichuan University under the supervision of Prof. Jianzhou Zhang, Prof. Rong Jin (Alibaba DAMO). Dr. Mang Wang (ByteDance). I am participating as one of the contributors to project [VGen](https://github.com/ali-vilab/VGen/tree/main) and [SuperBench](https://fm.ai.tsinghua.edu.cn/superbench/) (清华大学-基础模型中心). I led project include ERD, C-Flat, ZeroFlow and INFTY Engine. All projects gained a total of **4,200+ stars**.
+I am an Assistant Professor at Academy of Arts & Design (Information Technology), Tsinghua University. Before that, I was a postdoctoral researcher at Department of Computer Science and Technology, Tsinghua University, working with Prof. Jie Tang and Minlie Huang. I obtained my Ph.D. from Sichuan University under the supervision of Prof. Rong Jin (Alibaba DAMO). Dr. Mang Wang (ByteDance). I am participating as one of the contributors to project [VGen](https://github.com/ali-vilab/VGen/tree/main) and [SuperBench](https://fm.ai.tsinghua.edu.cn/superbench/) (清华大学-基础模型中心). I led project include ERD, C-Flat, ZeroFlow and INFTY Engine. All projects gained a total of **4,500+ stars**.
 
 My research lies at the intersection of computer vision and artificial intelligence. My research interests include **Computer Vision**, **Continual Learning**, **Video Generation** and **Vision-Language Model**. My vision is striving to build 
 
