@@ -57,6 +57,57 @@ My research lies at the intersection of computer vision and artificial intellige
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/guiaif.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Continual GUI Agents](https://arxiv.org/pdf/2601.20732)
+
+Ziwei Liu, Borui Kang, Hangjie Yuan, Zixiang Zhao, Wei Li, Yifan Zhu, **Tao Feng<sup>†</sup>**
+
+[**Project**](https://github.com/xavierliu34/GUI-AiF) 
+- We introduce Continual GUI Agents, a new task that requires GUI agents to perform continual learning under shifted domains and resolutions.
+- We introduce GUI-AiF, a Continual GUI Agents framework with the ability to perform Anchoring in Flux.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/fire.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Filter, then reweight: Rethinking optimization granularity in on-policy distillation](https://arxiv.org/pdf/2601.20732)
+
+Yuying Li, Leqi Zheng, Yongzi Yu, Wenrui Zhou, Xuchang Zhong, Xing Hu, Jing Jin, Hangjie Yuan, **Tao Feng<sup>†</sup>**
+
+[**Project**](https://github.com/xavierliu34/GUI-AiF) 
+- FiRe-OPD leverages a soft-weighting mechanism to effectively mitigate information loss and enhance optimization stability, thereby achieving finer-grained OPD optimization
+- We validate the effectiveness of FiRe-OPD across strong-to-weak, single-teacher, and multi-teacher settings, and demonstrate its superiority over recent token-level OPD methods.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/turbo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Faster Path to Continual Learning](https://arxiv.org/pdf/2604.11064)
+
+Wei Li, Hangjie Yuan, Zixiang Zhao, Borui Kang, Ziwei Liu, **Tao Feng<sup>†</sup>**
+
+[**Project**](https://github.com/THUDM/INFTY) 
+- We propose C-Flat Turbo, a faster yet stronger optimizer that significantly reduces the training cost.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/dcsft.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Why Does RL Generalize Better Than SFT? A Data-Centric Perspective on VLM Post-Training](https://arxiv.org/pdf/2602.10815)
+
+Aojun Lu, **Tao Feng**, Hangjie Yuan, Wei Li, Yanan Sun
+
+[**Project**](https://github.com/byyx666/DC-SFT)
+- We posits a data-centric explanation for this phenomenon, contending that RL's generalization advantage arises from an implicit data filtering mechanism that inherently prioritizes medium-difficulty training samples.
+- we introduce Difficulty-Curated SFT (DC-SFT), a straightforward method that explicitly filters the training set based on sample difficulty.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/zeroflow.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
