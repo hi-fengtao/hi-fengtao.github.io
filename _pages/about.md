@@ -57,6 +57,19 @@ My research lies at the intersection of computer vision and artificial intellige
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/fire.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Filter, then reweight: Rethinking optimization granularity in on-policy distillation](https://arxiv.org/pdf/2606.02684)
+
+Yuying Li, Leqi Zheng, Yongzi Yu, Wenrui Zhou, Xuchang Zhong, Xing Hu, Jing Jin, Hangjie Yuan, **Tao Feng<sup>†</sup>**
+
+[**Project**](https://github.com/YuYingLi0/FiRe-OPD) 
+- FiRe-OPD leverages a soft-weighting mechanism to effectively mitigate information loss and enhance optimization stability, thereby achieving finer-grained OPD optimization
+- We validate the effectiveness of FiRe-OPD across strong-to-weak, single-teacher, and multi-teacher settings, and demonstrate its superiority over recent token-level OPD methods.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/guiaif.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -70,19 +83,6 @@ Ziwei Liu, Borui Kang, Hangjie Yuan, Zixiang Zhao, Wei Li, Yifan Zhu, **Tao Feng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/fire.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Filter, then reweight: Rethinking optimization granularity in on-policy distillation](https://arxiv.org/pdf/2601.20732)
-
-Yuying Li, Leqi Zheng, Yongzi Yu, Wenrui Zhou, Xuchang Zhong, Xing Hu, Jing Jin, Hangjie Yuan, **Tao Feng<sup>†</sup>**
-
-[**Project**](https://github.com/xavierliu34/GUI-AiF) 
-- FiRe-OPD leverages a soft-weighting mechanism to effectively mitigate information loss and enhance optimization stability, thereby achieving finer-grained OPD optimization
-- We validate the effectiveness of FiRe-OPD across strong-to-weak, single-teacher, and multi-teacher settings, and demonstrate its superiority over recent token-level OPD methods.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/turbo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -91,7 +91,33 @@ Yuying Li, Leqi Zheng, Yongzi Yu, Wenrui Zhou, Xuchang Zhong, Xing Hu, Jing Jin,
 Wei Li, Hangjie Yuan, Zixiang Zhao, Borui Kang, Ziwei Liu, **Tao Feng<sup>†</sup>**
 
 [**Project**](https://github.com/THUDM/INFTY) 
+- C-Flat requires three additional gradient computations per iteration, imposing substantial overhead on the optimization process
 - We propose C-Flat Turbo, a faster yet stronger optimizer that significantly reduces the training cost.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/lumos.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](https://arxiv.org/abs/2507.08801)
+
+Hangjie Yuan, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, **Tao Feng**, Pengwei Liu, Jiazheng Xing, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang
+
+[**Project**](https://github.com/alibaba-damo-academy/Lumos) 
+- Existing AR video generators either diverge from standard LLM architectures, depend on bulky external text encoders, or incur prohibitive latency due to next-token decoding.
+- We introduce Lumos-1, an LLM-based unified model for AR video generation with efficient discrete diffusion.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/cogflow.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CogFlow: Bridging Perception and Reasoning through Knowledge Internalization for Visual Mathematical Problem Solving](https://proceedings.iclr.cc/paper_files/paper/2026/file/6e444c80042f97db2e19a17774acb51f-Paper-Conference.pdf)
+
+Shuhang Chen, Yunqiu Xu, Junjie Xie, Aojun Lu, **Tao Feng**, Zeying Huang, Ning Zhang, Yi Sun, Yi Yang, Hangjie Yuan
+
+[**Project**](https://shchen233.github.io/cogflow/) 
+- We present CogFlow, a novel cognitive-inspired three-stage framework that incorporates a knowledge internalization stage, explicitly simulating the hierarchical flow of human reasoning.
 </div>
 </div>
 
