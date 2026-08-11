@@ -144,7 +144,7 @@ Aojun Lu, **Tao Feng**, Hangjie Yuan, Wei Li, Yanan Sun
 
 [**Project**](https://github.com/byyx666/DC-SFT)
 - We posits a data-centric explanation for this phenomenon, contending that RL's generalization advantage arises from an implicit data filtering mechanism that inherently prioritizes medium-difficulty training samples.
-- we introduce Difficulty-Curated SFT (DC-SFT), a straightforward method that explicitly filters the training set based on sample difficulty.
+- We introduce Difficulty-Curated SFT (DC-SFT), a straightforward method that explicitly filters the training set based on sample difficulty.
 </div>
 </div>
 
