@@ -58,6 +58,19 @@ My research lies at the intersection of computer vision and artificial intellige
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/clsurvey.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Continual Learning in Transition](https://arxiv.org/abs/2608.06216)
+
+Zhiyan Hou*, Dan Zhang*, **Tao Feng*<sup>†</sup>**, Liyuan Wang, Wei Li, Xiangzhao Hao, Hongyan An, Junfeng Fang, Haokai Ma, Zhaohui Xu, Haiyun Guo, Jinqiao Wang, Tat-Seng Chua
+
+[**Project**](https://github.com/YuYingLi0/FiRe-OPD) 
+- Emerging paradigms are reshaping the scope of Continual Learning beyond traditional view. 
+- We release a survey to examine the evolution of continual learning through three dimensions: When, How, and Where learning occurs.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/fire.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
