@@ -65,7 +65,7 @@ My research lies at the intersection of computer vision and artificial intellige
 
 Zhiyan Hou*, Dan Zhang*, **Tao Feng*<sup>†</sup>**, Liyuan Wang, Wei Li, Xiangzhao Hao, Hongyan An, Junfeng Fang, Haokai Ma, Zhaohui Xu, Haiyun Guo, Jinqiao Wang, Tat-Seng Chua
 
-[**Project**](https://github.com/YuYingLi0/FiRe-OPD) 
+[**Project**](https://huggingface.co/papers/2608.06216) 
 - Emerging paradigms are reshaping the scope of Continual Learning beyond traditional view. 
 - We release a survey to examine the evolution of continual learning through three dimensions: When, How, and Where learning occurs.
 </div>
