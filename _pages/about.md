@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor at Academy of Arts & Design (Information Design), Tsinghua University. Prior to this, I was a postdoctoral researcher at Department of Computer Science and Technology, Tsinghua University, working with Prof. Jie Tang and Prof. Minlie Huang. I received my Ph.D. degree from the College of Computer Science at Sichuan University. I also worked as a research intern at Alibaba DAMO Academy under the supervision of Prof. Rong Jin (Alibaba DAMO) and Dr. Mang Wang (ByteDance). I am participating as one of the contributors to project [VGen](https://github.com/ali-vilab/VGen/tree/main) and [SuperBench](https://fm.ai.tsinghua.edu.cn/superbench/) (清华大学-基础模型中心). I led project include ERD, C-Flat, ZeroFlow and INFTY Engine. All projects gained a total of **4,500+ stars**.
+I am an Assistant Professor at Academy of Arts & Design (Information Design), Tsinghua University. Prior to this, I was a postdoctoral researcher at Department of Computer Science and Technology, Tsinghua University, working with Prof. Jie Tang and Prof. Minlie Huang. I received my Ph.D. degree from the College of Computer Science at Sichuan University. I also worked as a research intern at Alibaba DAMO Academy under the supervision of Prof. Rong Jin (Alibaba DAMO) and Dr. Mang Wang (ByteDance). I am participating as one of the contributors to project [VGen](https://github.com/ali-vilab/VGen/tree/main) and [SuperBench](https://fm.ai.tsinghua.edu.cn/superbench/) (清华大学-基础模型中心). I led project include ERD, C-Flat, ZeroFlow and INFTY Engine. All projects gained a total of **5000+ stars**.
 
 My research lies at the intersection of computer vision and artificial intelligence. My research interests include **Computer Vision**, **Continual Learning**, **Video Generation** and **Vision-Language Model**. My vision is striving to build 
 
@@ -25,6 +25,7 @@ My research lies at the intersection of computer vision and artificial intellige
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉  We release a survey [Continual Learning in Transition](https://arxiv.org/abs/2608.06216) to reshape the scope of CL.
+- *2026.08*: &nbsp;🎉  Our survey [Parameter-Efficient Fine-Tuning for Foundation Models] got accepted by IJCV.
 - *2026.06*: &nbsp;🎉  Initial version of [🔥 Fire-OPD](https://arxiv.org/abs/2606.02684) is released.
 - *2026.05*: &nbsp;🎉  [GUI-AiF](https://arxiv.org/pdf/2601.20732) , [DFA-CIL](https://icml.cc/virtual/2026/poster/64307) accepted by ICML 2026. 
 - *2026.04*: &nbsp;🎉  [MathFlow](https://arxiv.org/pdf/2503.16549) , [BPO](https://arxiv.org/pdf/2508.03018?) accepted by ACL 2026 as Main Paper. 
