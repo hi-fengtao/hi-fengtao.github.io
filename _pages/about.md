@@ -21,7 +21,7 @@ I am an Assistant Professor at Academy of Arts & Design (Information Design), Ts
 
 My research lies at the intersection of computer vision and artificial intelligence. My research interests include **Artificial Intelligence**, **Computer Vision**, **AIGC**, **Agent**, and **AI for Creativity**,. My vision is striving to build 
 
-<center><i><u style="text-decoration: overline underline;">Continual AI — intelligence that learns, adapts, and grows over time.</u></i></center>
+<center><i><del>Continual AI — intelligence that learns, adapts, and grows over time.</del></i></center>
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉  We release a survey [Continual Learning in Transition](https://arxiv.org/abs/2608.06216) to reshape the scope of CL.
