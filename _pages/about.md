@@ -23,8 +23,9 @@ My research lies at the intersection of computer vision and artificial intellige
 
 <center><i>Sometimes science is more art than science.</i></center> 
 
-<span style="color:red">📖 I am looking for motivated M.S. students, interns (remote welcome), and postdoc researchers, feel free to reach out at fengtao.hi@gmail.com; fengt@tsinghua.edu.cn. If you are interested in joining us, we'd love to hear from you.
+<span style="color:red">📖 I am looking for motivated master, interns (remote welcome), and postdoc researchers, feel free to reach out at fengtao.hi@gmail.com; fengt@tsinghua.edu.cn. If you are interested in joining us, we'd love to hear from you.
 </span>
+
 
 <!-- 
 I am fascinated by the unexpected—the moments in science that make us pause and say, **“That’s funny…”**
