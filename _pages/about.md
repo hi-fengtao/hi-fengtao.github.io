@@ -19,9 +19,15 @@ redirect_from:
 
 I am an Assistant Professor at Academy of Arts & Design (Information Design), Tsinghua University. Prior to this, I was a postdoctoral researcher at Department of Computer Science and Technology, Tsinghua University, working with Prof. Jie Tang and Prof. Minlie Huang. I received my Ph.D. degree from the College of Computer Science at Sichuan University. I also worked as a research intern at Alibaba DAMO Academy under the supervision of Prof. Rong Jin (Alibaba DAMO) and Dr. Mang Wang (ByteDance). I am participating as one of the contributors to project [VGen](https://github.com/ali-vilab/VGen/tree/main) and [SuperBench](https://fm.ai.tsinghua.edu.cn/superbench/) (清华大学-基础模型中心). I led project include ERD, C-Flat, ZeroFlow and INFTY Engine. All projects gained a total of **5000+ stars**.
 
-My research lies at the intersection of computer vision and artificial intelligence. My research interests include **Artificial Intelligence**, **Computer Vision**, **AIGC**, **Agent**, and **AI for Creativity**,. My vision is striving to build 
+My research lies at the intersection of computer vision and artificial intelligence. My research interests include **Artificial Intelligence**, **Computer Vision**, **AIGC**, **Agent**, and **AI for Creativity**. I am fascinated by the unexpected—the moments in science that make us pause and say, <i>“That’s funny…”.</i>
+
+<center><i>Sometimes science is more art than science.</i></center> 
+
+<!-- 
+My vision is striving to build
 
 <center><i><del>Continual AI — intelligence that learns, adapts, and grows over time.</del></i></center>
+-->
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉  We release a survey [Continual Learning in Transition](https://arxiv.org/abs/2608.06216) to reshape the scope of CL.
