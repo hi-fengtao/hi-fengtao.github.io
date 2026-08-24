@@ -35,6 +35,8 @@ My vision is striving to build
 -->
 
 # 🔥 News
+
+- *2026.08*: &nbsp;🎉  [C-flat++](https://arxiv.org/pdf/2508.18860?) (extended version of [C-Flat-NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/0e705ac30e573d1526f81a0fd071a151-Paper-Conference.pdf)) accepted by IJCV.
 - *2026.08*: &nbsp;🎉  We release a survey [Continual Learning in Transition](https://arxiv.org/abs/2608.06216) to reshape the scope of CL.
 - *2026.08*: &nbsp;🎉  Our survey [Parameter-Efficient Fine-Tuning for Foundation Models](https://github.com/THUDM/Awesome-Parameter-Efficient-Fine-Tuning-for-Foundation-Models?tab=readme-ov-file) got accepted by IJCV.
 - *2026.06*: &nbsp;🎉  Initial version of [🔥 Fire-OPD](https://arxiv.org/abs/2606.02684) is released.
