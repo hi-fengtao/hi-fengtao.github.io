@@ -36,7 +36,7 @@ My vision is striving to build
 
 # 🔥 News
 
-- *2026.09*: &nbsp;🎉  [TARP](https://openreview.net/forum?id=dx2kKJoPQl&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2026%2FConference%2FAuthors%23your-submissions)#discussion) , [RotMoLE](https://arxiv.org/abs/2605.25565) , [StepSTEM](https://arxiv.org/abs/2604.19697) accepted by NeurIPS 2026.
+- *2026.09*: &nbsp;🎉  [StepSTEM](https://arxiv.org/abs/2604.19697) , [RotMoLE](https://arxiv.org/abs/2605.25565) , [TARP](https://openreview.net/forum?id=dx2kKJoPQl&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2026%2FConference%2FAuthors%23your-submissions)#discussion) accepted by NeurIPS 2026.
 - *2026.08*: &nbsp;🎉  [C-Flat++](https://arxiv.org/pdf/2508.18860?) (extended version of [C-Flat-NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/0e705ac30e573d1526f81a0fd071a151-Paper-Conference.pdf)) accepted by IJCV.
 - *2026.08*: &nbsp;🎉  We release a survey [Continual Learning in Transition](https://arxiv.org/abs/2608.06216) to reshape the scope of CL.
 - *2026.08*: &nbsp;🎉  Our survey [Parameter-Efficient Fine-Tuning for Foundation Models](https://github.com/THUDM/Awesome-Parameter-Efficient-Fine-Tuning-for-Foundation-Models?tab=readme-ov-file) got accepted by IJCV.
